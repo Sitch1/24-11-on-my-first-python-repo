@@ -7,8 +7,8 @@
 
 # Was ist eine Variable ?
 
-name = "Dustin"      # String (Ein text wort mit "" angeben, dieser wird als Text angezigt bei zahelen keine "" anweden)
-alter = 30         # Integer (Ganzzahl)
+name = "Test"      # String (Ein text wort mit "" angeben, dieser wird als Text angezigt bei zahelen keine "" anweden)
+alter = 1         # Integer (Ganzzahl)
 gewicht = 65.5     # Float (Gleitkommazahl)
 ist_student = True # Boolean (Wahrheitswert)
 
@@ -22,8 +22,8 @@ ist_student = True # Boolean (Wahrheitswert)
 
 print ("Hallo Welt")
 
-first_name = "Dustin"
-last_name = "P."
+first_name = "D"
+last_name = "."
 
 
 print (first_name + " " + last_name)
