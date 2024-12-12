@@ -34,6 +34,7 @@ print('')
 
 
 ### !!.HAUSAUFGABE.!! ###
+#!. Donnerstag, 12.12.24 .!#
 
 
 # !.1.Namensabfrage mit input.! #

@@ -59,7 +59,7 @@ Note1 = float(input("Erste Zahl eingeben:"))
 Note2 = float(input("Zweite Zahl eingeben:"))
 note3 = float(input("Dritte Zahl eingeben:"))
 
-###### !Durchschnitt berechnen! ######
+###### !Durchschnitt berechnen! ###### result
 
 # durchschnitt = (Note1+Note2+note3) / 3
 # print("ergebiss ist" , durchschnitt)  funktoniert gleich 
